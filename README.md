@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tia-comyns-b416b5144)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tiacomyns/)
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/<@tiacomyns>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ### Thanks for visiting my Github Page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=tiacomyns.tiacomyns)
 
