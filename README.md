@@ -8,6 +8,8 @@
 
 I'm Tia (she/her) and I am a Second Year IT Student studying at RMIT in Melbourne.
 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)]https://open.spotify.com/playlist/7vZVYqtMaC2wf4SHsB6NxB?si=6f549611cee043a6
+
 **What I'm up to?**
 
 - This upcoming semester my classes are focused towards backend with a lot of Java happening!
