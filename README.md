@@ -16,7 +16,7 @@ I'm Tia (she/her) and I am a Second Year IT Student studying at RMIT in Melbourn
 - I have some projects I am excited to share! *soon*
 - Hoping to facilitate lots of very cool events for The RMIT Programming Club (TPC) and the RMIT Society for Women in Information Technology (SWITCH)
 
-<img width="929" alt="github banner" src="https://user-images.githubusercontent.com/48738614/161478649-8e691b3c-97b2-4c25-a439-a4e7e87e998f.png">
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
